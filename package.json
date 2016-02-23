@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "name": "com.handchina.artemis.hulianyi.didskd",
+    "cordova_name": "didisdk",
+    "description": "A Cordova Plugin for retrieving Wireless Carrier information.",
+    "platforms": [
+        "android",
+        "ios"
+    ],
+    "engines": []
+}
